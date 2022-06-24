@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://cyrilmuchemi.github.io/Movie-App-Project)
+[Live Demo Link](https://ritobrotomukherjee.github.io/movie-app-project/)
 
 ## Project Description Video
 
